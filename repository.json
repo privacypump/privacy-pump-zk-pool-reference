@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-zk-pool-reference",
+  "description": "Fail-closed reference Solana ZK pool with nullifier and protected-release semantics.",
+  "maturity": "Research/reference; not production-ready",
+  "network": "Local research only",
+  "topics": ["privacy-pump", "solana", "zero-knowledge", "zk", "research"],
+  "visibility": "public-after-verification"
+}
